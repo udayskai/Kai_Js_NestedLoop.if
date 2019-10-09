@@ -2,11 +2,9 @@
 
 
 let Mark=122;
-if((Mark>=0)
-&&
-   (Mark<=100)) 
+if((Mark>=0) && (Mark<=100)) 
 {
-    if( (mark>=0)&&(mark<=35));
+    if else( (mark>=0&&mark<=35));
     {
         console.log("Fail");
     }
